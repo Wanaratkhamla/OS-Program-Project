@@ -1,0 +1,24 @@
+C:\Users\SetsunaFsasei\Desktop\123\obj\Debug\GetHardwareInfo.csprojResolveAssemblyReference.cache
+C:\Users\SetsunaFsasei\Desktop\123\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\SetsunaFsasei\Desktop\123\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+C:\Users\SetsunaFsasei\Desktop\123\obj\Debug\GetHardwareInfo.csproj.GenerateResource.Cache
+C:\Users\SetsunaFsasei\Desktop\123\bin\Debug\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\123\bin\Debug\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\123\obj\Debug\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\123\obj\Debug\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Debug\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Debug\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\Project OS\bin\Debug\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\Project OS\bin\Debug\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Debug\GetHardwareInfo.csprojResolveAssemblyReference.cache
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Debug\GetHardwareInfo.csproj.GenerateResource.Cache
+C:\Users\SetsunaFsasei\Desktop\SourceCode\obj\Debug\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\SourceCode\obj\Debug\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\SourceCode\bin\Debug\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\SourceCode\bin\Debug\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\SourceCode\obj\Debug\GetHardwareInfo.csprojResolveAssemblyReference.cache
+C:\Users\SetsunaFsasei\Desktop\SourceCode\obj\Debug\GetHardwareInfo.frmMain.resources
+C:\Users\SetsunaFsasei\Desktop\SourceCode\obj\Debug\GetHardwareInfo.Properties.Resources.resources
+C:\Users\SetsunaFsasei\Desktop\SourceCode\obj\Debug\GetHardwareInfo.csproj.GenerateResource.Cache

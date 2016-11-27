@@ -1,0 +1,8 @@
+C:\Users\SetsunaFsasei\Desktop\Project OS\bin\Release\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\Project OS\bin\Release\GetHardwareInfo.pdb
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Release\GetHardwareInfo.csprojResolveAssemblyReference.cache
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Release\GetHardwareInfo.frmMain.resources
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Release\GetHardwareInfo.Properties.Resources.resources
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Release\GetHardwareInfo.csproj.GenerateResource.Cache
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Release\GetHardwareInfo.exe
+C:\Users\SetsunaFsasei\Desktop\Project OS\obj\Release\GetHardwareInfo.pdb
